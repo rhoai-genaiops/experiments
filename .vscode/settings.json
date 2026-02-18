@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "on",
+  "notebook.output.wordWrap": true,
+  "notebook.output.scrolling": false,
+  "editor.rulers": [],
+  "editor.wordWrapColumn": 80
+}
